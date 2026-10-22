@@ -1,0 +1,6 @@
+# Tested with Python 3.12; see DEPLOYMENT_REPORT.md.
+streamlit==1.65.0
+plotly==7.1.0
+pandas==3.0.6
+numpy==2.5.4
+scipy==1.18.1
